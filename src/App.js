@@ -1,23 +1,36 @@
 import logo from './logo.svg';
 import './App.css';
+import Header from "./components/Header/Header";
+
+import Footer from "./components/Footer/Footer";
+import Home from "./components/Home/Home";
+import { Routes, Route } from "react-router-dom";
+import ProjectHeader from "./components/ProjectHeader/ProjectHeader";
+import Services from "./components/Services/Services";
+import Contact from "./components/Contact/Contact";
+// import About from "./components/About/About";
+import AboutHeader from "./components/AboutHeader/AboutHeader";
+import FourZeroFour from "./components/FourZeroFour/FourZeroFour";
+import { ToastContainer } from 'react-toastify';
+
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div className="base">
+     <Header></Header>
+
+      
+<Routes>
+   <Route path="/"  element={<Home />} />
+   <Route path="services"  element={<Services/>} /> 
+   <Route path="projects" element={<ProjectHeader />} /> 
+   <Route path="contact" element={<Contact />} /> 
+   <Route path="about" element={<AboutHeader />} /> 
+   <Route path="/*" element={<FourZeroFour />} /> 
+ </Routes>
+ <Footer></Footer>
+ <ToastContainer></ToastContainer>
+
     </div>
   );
 }
