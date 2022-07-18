@@ -1,16 +1,16 @@
 import React from "react";
 // import expert1 from "../../../images/expert/expert-1.jpg";
-import project1 from "../../../src/projects/project1.jpg";
-import project2 from "../../../src/projects/project2.jpg";
-import project3 from "../../../src/projects/project3.jpg";
-import project4 from "../../../src/projects/project4.JPG";
-import project5 from "../../../src/projects/project5.JPG";
-import project6 from "../../../src/projects/project6.JPG";
-import project7 from "../../../src/projects/project7.JPG";
-import project8 from "../../../src/projects/project8.JPG";
-import project9 from "../../../src/projects/project9.JPG";
-import project10 from "../../../src/projects/project10.JPG";
-import project11 from "../../../src/projects/project11.JPG";
+import project1 from "../../../src/projects/project1.png";
+import project2 from "../../../src/projects/project2.png";
+import project3 from "../../../src/projects/project3.png";
+import project4 from "../../../src/projects/project4.png";
+import project5 from "../../../src/projects/project5.png";
+import project6 from "../../../src/projects/project6.png";
+import project7 from "../../../src/projects/project11.JPG";
+import project8 from "../../../src/projects/project8.png";
+import project9 from "../../../src/projects/project9.png";
+import project10 from "../../../src/projects/project10.png";
+import project11 from "../../../src/projects/project7.png";
 const Projects = () => {
   return (
      <section id="project-area" class="project-area solid-bg">
@@ -33,22 +33,7 @@ const Projects = () => {
 
         
 
-          <div class="col-lg-4 col-md-6 p-2  shuffle-item" data-groups="[&quot;healthcare&quot;]">
-            <div class="project-img-container">
-              <a class="gallery-popup" href={project2}  aria-label="project-img">
-                <img class="img-fluid" src={project2} alt="project-img"/>
-                <span class="gallery-icon"><i class="fa fa-plus"></i></span>
-              </a>
-              <div class="project-item-info">
-                <div class="project-item-info-content">
-                  <h3 class="project-item-title">
-                    <a  >Ghum Touch Hospital</a>
-                  </h3>
-                  <p class="project-cat">Healthcare</p>
-                </div>
-              </div>
-            </div>
-          </div>
+        
 
           <div class="col-lg-4 col-md-6 p-2  shuffle-item" data-groups="[&quot;infrastructure&quot;,&quot;commercial&quot;]">
             <div class="project-img-container">
@@ -62,6 +47,22 @@ const Projects = () => {
                     <a  >TNT East Facility</a>
                   </h3>
                   <p class="project-cat">Government</p>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-4 col-md-6 p-2  shuffle-item" data-groups="[&quot;healthcare&quot;]">
+            <div class="project-img-container">
+              <a class="gallery-popup" href={project2}  aria-label="project-img">
+                <img class="img-fluid" src={project2} alt="project-img"/>
+                <span class="gallery-icon"><i class="fa fa-plus"></i></span>
+              </a>
+              <div class="project-item-info">
+                <div class="project-item-info-content">
+                  <h3 class="project-item-title">
+                    <a  >Ghum Touch Hospital</a>
+                  </h3>
+                  <p class="project-cat">Healthcare</p>
                 </div>
               </div>
             </div>
@@ -171,7 +172,7 @@ const Projects = () => {
               <div class="project-item-info">
                 <div class="project-item-info-content">
                   <h3 class="project-item-title">
-                    <a  >TNT East Facility</a>
+                    <a  ></a>
                   </h3>
                   <p class="project-cat">Government</p>
                 </div>
