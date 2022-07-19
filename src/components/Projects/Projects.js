@@ -11,6 +11,7 @@ import project8 from "../../../src/projects/project8.png";
 import project9 from "../../../src/projects/project9.png";
 import project10 from "../../../src/projects/project10.png";
 import project11 from "../../../src/projects/project7.png";
+import project12 from "../../../src/projects/project12.png";
 const Projects = () => {
   return (
      <section id="project-area" class="project-area solid-bg">
@@ -163,26 +164,11 @@ const Projects = () => {
               </div>
             </div>
           </div>
+         
           <div class="col-lg-4 col-md-6 p-2  shuffle-item" data-groups="[&quot;infrastructure&quot;,&quot;commercial&quot;]">
             <div class="project-img-container">
               <a class="gallery-popup" href={project1}  aria-label="project-img">
                 <img class="img-fluid" src={project1}  alt="project-img"/>
-                <span class="gallery-icon"><i class="fa fa-plus"></i></span>
-              </a>
-              <div class="project-item-info">
-                <div class="project-item-info-content">
-                  <h3 class="project-item-title">
-                    <a  ></a>
-                  </h3>
-                  <p class="project-cat">Government</p>
-                </div>
-              </div>
-            </div>
-          </div>
-          <div class="col-lg-4 col-md-6 p-2  shuffle-item" data-groups="[&quot;infrastructure&quot;,&quot;commercial&quot;]">
-            <div class="project-img-container">
-              <a class="gallery-popup" href={project11}  aria-label="project-img">
-                <img class="img-fluid" src={project11}  alt="project-img"/>
                 <span class="gallery-icon"><i class="fa fa-plus"></i></span>
               </a>
               <div class="project-item-info">
@@ -200,6 +186,22 @@ const Projects = () => {
             <div class="project-img-container">
               <a class="gallery-popup" href={project10} aria-label="project-img">
                 <img class="img-fluid" src={project10} alt="project-img"/>
+                <span class="gallery-icon"><i class="fa fa-plus"></i></span>
+              </a>
+              <div class="project-item-info">
+                <div class="project-item-info-content">
+                  <h3 class="project-item-title">
+                    <a >Capital Teltway Building</a>
+                  </h3>
+                  <p class="project-cat">Commercial, Interiors</p>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-4 col-md-6 p-2 shuffle-item" data-groups="[&quot;government&quot;,&quot;healthcare&quot;]">
+            <div class="project-img-container">
+              <a class="gallery-popup" href={project11} aria-label="project-img">
+                <img class="img-fluid" src={project11} alt="project-img"/>
                 <span class="gallery-icon"><i class="fa fa-plus"></i></span>
               </a>
               <div class="project-item-info">

@@ -7,7 +7,7 @@ const AboutHeader = () => {
       <div
         id="banner-area"
         class="banner-area"
-        style={{ backgroundImage: `url("images/banner/banner1.jpg")` }}
+        style={{ backgroundImage: `url("images/banner/banner4.jpg")` }}
       >
         <div class="banner-text">
           <div class="container">
@@ -34,7 +34,7 @@ const AboutHeader = () => {
             <div class="col-12 col-sm-12 col-md-6 col-lg-6  align-items-center justify-content-center d-flex  ">
               <div class="p-3  ">
                 <img
-                  src="images/news/news2.jpg"
+                  src="images/news/news2.png"
                   alt=""
                   className="img-fluid rounded-2 border"
                 />
@@ -206,7 +206,7 @@ const AboutHeader = () => {
                       <img
                         loading="lazy"
                         class="w-100"
-                        src="images/team/team4.jpg"
+                        src="images/team/team1.jpg"
                         alt="team-img"
                       />
                     </div>
@@ -244,7 +244,7 @@ const AboutHeader = () => {
                       <img
                         loading="lazy"
                         class="w-100"
-                        src="images/team/team5.jpg"
+                        src="images/team/team2.jpg"
                         alt="team-img"
                       />
                     </div>
@@ -282,7 +282,7 @@ const AboutHeader = () => {
                       <img
                         loading="lazy"
                         class="w-100"
-                        src="images/team/team6.jpg"
+                        src="images/team/team3.jpg"
                         alt="team-img"
                       />
                     </div>

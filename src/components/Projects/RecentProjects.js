@@ -7,7 +7,7 @@ const RecentProjects = () => {
             <div class="row text-center">
                 <div class="col-12">
                   <h2 class="section-title" style={{color:"#BC4B26"}}>Work of Excellence</h2>
-                  <h3 class="section-sub-title" style={{color:"#BC4B26"}}>Recent Projects</h3>
+                  <h3 class="section-sub-title" style={{color:"#BC4B26"}}>Recent Product</h3>
                 </div>
             </div>
            
@@ -37,7 +37,7 @@ const RecentProjects = () => {
                   <div class="latest-post">
                       <div class="latest-post-media">
                         <a href="/" class="latest-post-img">
-                            <img loading="lazy" class="img-fluid" src="images/news/news2.jpg" alt="img"/>
+                            <img loading="lazy" class="img-fluid" src="images/news/news2.png" alt="img"/>
                         </a>
                       </div>
                       <div class="post-body">

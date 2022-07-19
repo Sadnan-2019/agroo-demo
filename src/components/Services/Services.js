@@ -3,7 +3,7 @@ import React from 'react';
 const Services = () => {
      return (
           <div>
-          <div id="banner-area" class="banner-area" style={{backgroundImage:`url("images/banner/banner1.jpg")`}}>
+          <div id="banner-area" class="banner-area" style={{backgroundImage:`url("images/banner/banner4.jpg")`}}>
   <div class="banner-text">
     <div class="container">
         <div class="row">
@@ -61,7 +61,7 @@ const Services = () => {
       <div class="col-lg-4 col-md-6 mb-5">
         <div class="ts-service-box">
             <div class="ts-service-image-wrapper">
-              <img loading="lazy" class="w-100" src="images/services/service3.jpg" alt="service-image"/>
+              <img loading="lazy" class="w-100" src="images/services/service1.jpg" alt="service-image"/>
             </div>
             <div class="d-flex">
               <div class="ts-service-box-img">
@@ -79,7 +79,7 @@ const Services = () => {
       <div class="col-lg-4 col-md-6 mb-5">
         <div class="ts-service-box">
             <div class="ts-service-image-wrapper">
-              <img loading="lazy" class="w-100" src="images/services/service4.jpg" alt="service-image"/>
+              <img loading="lazy" class="w-100" src="images/services/service4.jpg" alt="service-image"  />
             </div>
             <div class="d-flex">
               <div class="ts-service-box-img">
@@ -97,7 +97,7 @@ const Services = () => {
       <div class="col-lg-4 col-md-6 mb-5">
         <div class="ts-service-box">
             <div class="ts-service-image-wrapper">
-              <img loading="lazy" class="w-100" src="images/services/service5.jpg" alt="service-image"/>
+              <img loading="lazy" class="w-100" src="images/services/service4.jpg" alt="service-image"/>
             </div>
             <div class="d-flex">
               <div class="ts-service-box-img">
@@ -115,7 +115,7 @@ const Services = () => {
       <div class="col-lg-4 col-md-6 mb-5">
         <div class="ts-service-box">
             <div class="ts-service-image-wrapper">
-              <img loading="lazy" class="w-100" src="images/services/service6.jpg" alt="service-image"/>
+              <img loading="lazy" class="w-100" src="images/services/service4.jpg" alt="service-image"/>
             </div>
             <div class="d-flex">
               <div class="ts-service-box-img">
