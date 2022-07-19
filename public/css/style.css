@@ -387,7 +387,7 @@ blockquote {
   margin: 20px 0;
   background: #f9f9f9;
   position: relative;
-  border-left: 3px solid #bc4b26;
+  border-left: 3px solid #CE2B22;
   padding-left: 40px;
 }
 blockquote.text-center {
@@ -416,7 +416,7 @@ blockquote:before {
   font-family: "Font Awesome 5 Free";
   position: absolute;
   font-size: 28px;
-  color: #bc4b26;
+  color: #CE2B22;
   top: 5px;
   left: 5px;
   font-weight: 700;
@@ -1471,14 +1471,14 @@ ul.navbar-nav > li.header-get-a-quote:hover > a:after {
 .slick-dots .slick-dots li button:focus:before,
 .slick-dots li.slick-active button:before {
   opacity: 1;
-  color: #bc4b26;
+  color: #CE2B22;
 }
 
 /* //// my.testimonial-area  */
 .testimonial-slide .carousel-control {
-  background: #bc4b26;
+  background: #CE2B22;
   color: #fff;
-  border: 1px #bc4b26;
+  border: 1px #CE2B22;
 }
 
 /* //// .testimonial-area  */
@@ -1514,7 +1514,7 @@ ul.navbar-nav > li.header-get-a-quote:hover > a:after {
 }
 
 .banner-carousel .carousel-control i:hover {
-  background: #bc4b26;
+  background: #CD2B22;
   color: #fff;
 }
 
@@ -2273,7 +2273,7 @@ ul.navbar-nav > li.header-get-a-quote:hover > a:after {
   left: 0;
   top: 0;
   font-weight: 700;
-  color: #bc4b26;
+  color: #CE2B22;
 }
 
 .testimonial-slide .slick-dots {

@@ -2,6 +2,7 @@ import React from 'react';
 import About from '../About/About';
 import Banner from '../Banner/Banner';
 import Business from '../Business/Business';
+import Contact from '../Contact/Contact';
 import New from '../New';
 import Popup from '../Popup/Popup';
 import Projects from '../Projects/Projects';
@@ -11,12 +12,13 @@ import Testimonials from '../Testimonials/Testimonials';
 
 const Home = () => {
      return (
-          <div>
+          <div className='base'>
             <Banner></Banner>
       <About></About>
       <Business></Business>
       <Projects></Projects>
       <Specialists></Specialists>
+      {/* <Contact></Contact> */}
    
       <Testimonials></Testimonials>
       <RecentProjects></RecentProjects>  
