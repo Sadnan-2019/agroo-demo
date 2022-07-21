@@ -7,3 +7,23 @@
   background-repeat: no-repeat;
   background-size: cover;
 }
+
+
+
+.landing{
+
+  /* background-color: #121826; */
+  /* background-color: #96AB8B; */
+  /* opacity: 0.4; */
+  opacity: .5; 
+}
+.description{
+  color: white
+}
+.title{
+  color: #65D1BD
+}
+.landing-btn{
+background-color: #65D1BD;
+
+}

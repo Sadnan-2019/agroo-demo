@@ -17,10 +17,10 @@ const Header = () => {
               <div>
                 <a class=" " href="/">
                   <img
-                    className="mylogo"
+                    className="mylogo img-fluid"
                     loading="lazy"
-                    src="https://i.ibb.co/Zmsbx6F/rubel.png"
-                    style={{ width: "150px", height: "110px" }}
+                    src="https://i.ibb.co/k3g2LGG/logo.png"
+                    style={{ width: "150px", height: "80px" }}
                     alt="Constra"
                   />
                 </a>
@@ -158,8 +158,8 @@ const Header = () => {
 
             </div>
             <div class="col-md-3 hotcontact " style={{lineHeight:"18px"}}>
-          <small style={{color:"white",fontWeight:"bolder"}}>Email : rubelahmedrpi2@gmail.com</small> <br></br>
-                    <small style={{color:"white ",fontWeight:"bolder"}}>Mobile : +8801738145656</small>
+          <small style={{color:"white",fontWeight:"bolder"}}>Email : agrodemo@gmail.com</small> <br></br>
+                    <small style={{color:"white ",fontWeight:"bolder"}}>Mobile : +8801700000000</small>
              
           </div>
           

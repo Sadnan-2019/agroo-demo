@@ -352,7 +352,7 @@ a:focus {
 /* Input form */
 .form-control {
   box-shadow: none;
-  border: 1px solid #bc4b26;
+  border: 1px solid #CE2B22;
   padding: 5px 20px;
   height: 44px;
   background: none;
@@ -733,7 +733,7 @@ ul.navbar-nav > li > a {
 }
 ul.navbar-nav > li:hover > a,
 ul.navbar-nav > li.active > a {
-  color: #bc4b26 !important;
+  color: #CE2B22 !important;
 }
 
 /*-- Logo --*/
@@ -2027,7 +2027,7 @@ ul.navbar-nav > li.header-get-a-quote:hover > a:after {
   right: 0;
   z-index: 1;
   padding: 5px 12px;
-  background: #bc4b26;
+  background: #CE2B22;
   color: #fff;
   opacity: 0;
   transform: perspective(1px) scale3d(0, 0, 0);
@@ -2070,10 +2070,10 @@ ul.navbar-nav > li.header-get-a-quote:hover > a:after {
   .project-item-info-content
   .project-item-title
   a:hover {
-  color: #ffb600;
+  color: #CE2B22;
 }
 .shuffle-item .project-img-container .project-item-info-content .project-cat {
-  background: #bc4b26;
+  background: #CE2B22;
   display: inline-block;
   padding: 2px 8px;
   font-weight: 700;
@@ -2458,7 +2458,7 @@ img.testimonial-thumb {
 }
 
 .latest-post .post-title a:hover {
-  color: #bc4b26;
+  color: #CE2B22;
 }
 
 .latest-post-meta {

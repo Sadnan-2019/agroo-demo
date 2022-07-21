@@ -16,7 +16,7 @@ const Banner = () => {
                   17 Years of excellence in
                 </h2>
                 <h3 class="slide-sub-title" data-animation-in="slideInRight">
-                  Construction Industry
+                  Agriculture Industry
                 </h3>
                 <p data-animation-in="slideInLeft" data-duration-in="1.2">
                   <a href="/services" class="slider btn btn-primary" style={{backgroundColor:"#CE2B22"}}>
@@ -69,7 +69,7 @@ const Banner = () => {
             <div class="row align-items-center h-100">
               <div class="col-md-12">
                 <h2 class="slide-title" data-animation-in="slideInDown">
-                  Meet Our Engineers
+                  Meet Our Farmers
                 </h2>
                 <h3 class="slide-sub-title" data-animation-in="fadeIn">
                   We believe sustainability
@@ -111,7 +111,7 @@ const Banner = () => {
         <div class="row align-items-center">
           <div class="col-md-8 text-center text-md-left">
               <div class="call-to-action-text">
-                <h3 class="action-title">We understand your needs on construction</h3>
+                <h3 class="action-title">We understand your needs on Agro Food</h3>
               </div>
           </div> 
           <div class="col-md-4 text-center text-md-right mt-3 mt-md-0">

@@ -70,7 +70,7 @@ const Contact = () => {
           </div>
           <div class="text-right"><br></br>
             {/* <button class="btn btn-primary solid blank" type="submit" style={{background:"#BC4B26"}}>Send Message</button> */}
-            <input class="btn btn-primary solid blank" type="submit" value="Send Message" style={{background:"#BC4B26"}}/>
+            <input class="btn btn-primary solid blank" type="submit" value="Send Message" style={{background:"#CE2B22"}}/>
           </div>
         </form>
       </div>
