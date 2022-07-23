@@ -42,7 +42,7 @@ const AboutHeader = () => {
             </div>
 
             <div class="col-12 col-sm-12 col-md-6 col-lg-6  ">
-              <h3 class="column-title mt-2" style={{ color: "#BC4B26" }}>
+              <h3 class="column-title mt-2" style={{ color: "#CE2B22" }}>
                 Who We Are
               </h3>
               <p>
@@ -74,10 +74,10 @@ const AboutHeader = () => {
         <div class="container">
           <div class="row text-center">
             <div class="col-lg-12">
-              <h2 class="section-title" style={{ color: "#BC4B26" }}>
+              <h2 class="section-title" style={{ color: "#CE2B22" }}>
                 Quality Service
               </h2>
-              <h3 class="section-sub-title" style={{ color: "#BC4B26" }}>
+              <h3 class="section-sub-title" style={{ color: "#CE2B22" }}>
                 Professional Team
               </h3>
             </div>
