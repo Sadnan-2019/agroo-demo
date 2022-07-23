@@ -22,7 +22,7 @@ const ProjectHeader = () => {
                 <div class="row">
                   <div class="col-lg-12 ">
                       <div class="banner-heading">
-                        <h1 class="banner-title p-1">Project</h1>
+                        <h1 class="banner-title p-1">Product</h1>
                      
                       </div>
                   </div>

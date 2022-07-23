@@ -224,7 +224,7 @@ const Projects = () => {
    
          <div class="col-12">
            <div class="general-btn text-center">
-             <a class="btn btn-primary" href="/projects" style={{background:"#CE2B22"}}>View All Projects</a>
+             <a class="btn btn-primary" href="/projects" style={{background:"#CE2B22"}}>View All Products</a>
            </div>
          </div>
    
