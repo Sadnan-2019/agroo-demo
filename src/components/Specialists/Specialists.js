@@ -3,7 +3,7 @@ import "./Specialists.css";
 
 const Specialists = () => {
   return (
-    <section id="main-container" class="main-container specialists    ">
+    <section id="main-container" class="main-container     ">
   {/* <h1 className='text-center text-light banner-title mt-5 pt-5 '  >Contact</h1> */}
 
  
@@ -12,11 +12,7 @@ const Specialists = () => {
  
 
 
- <div class="row g-4 my-5 landing    "data-aos="fade-left"
-          data-aos-offset="300"
-          data-aos-delay="5000"
-          data-aos-duration="1000"
-          data-aos-easing="ease-in-out" >
+ <div class="row g-4     " >
           <div
             class="col-md-6 col-lg-6 py-5    "
            
@@ -28,7 +24,7 @@ const Specialists = () => {
  
               <p 
                  
-                className="text-start fw-bolder fs-6 description"
+                className="text-start text-black fw-bolder fs-6 description"
               >
                Advocating an acute reduction in the consumption of factory-farmed meat, fish, eggs, and dairy by consumer.
               </p>
@@ -40,7 +36,7 @@ const Specialists = () => {
           </div>
 
           <div
-            class="col-md-6 col-lg-6 text-light py-5"
+            class="col-md-6 col-lg-6 text-light "
            
           >
             <div class="p-3     ">

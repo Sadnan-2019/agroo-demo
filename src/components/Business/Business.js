@@ -1,8 +1,9 @@
 import React from 'react';
+import "./Business.css"
 
 const Business = () => {
      return (
-          <section id="facts" class="facts-area dark-bg">
+          <section id="facts" class="facts-area business   "  >
   <div class="container">
     <div class="facts-wrapper">
         <div class="row">
@@ -13,7 +14,7 @@ const Business = () => {
               </div>
               <div class="ts-facts-content">
                 <h2 class="ts-facts-num"><span class="counterUp" data-count="1789">0</span></h2>
-                <h3 class="ts-facts-title">Total Projects</h3>
+                <h3 class="ts-facts-title">Total Products</h3>
               </div>
           </div> 
 

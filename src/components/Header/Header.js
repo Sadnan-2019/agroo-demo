@@ -98,7 +98,7 @@ const Header = () => {
                         aria-current="page"
                         // onClick={()=>setSpinner(true)}
                       >
-                        Project
+                        Product
                       </NavLink>
                     </li>
 
